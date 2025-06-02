@@ -79,3 +79,8 @@ diff
 + Email: security@voting.works
 + PGP Key: https://voting.works/security/pgp.asc
 Legitimate security researchers follow strict ethical guidelines and legal protocols. Any other approach risks severe consequences.
+
+
+
+## For Yazi Terminal File manager
+apt install ffmpeg 7zip jq poppler-utils fd-find ripgrep fzf zoxide imagemagick
